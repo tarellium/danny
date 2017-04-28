@@ -21,7 +21,7 @@ public class Dany {
 				 } 
 				 while (count < 11);
 					
-					
+					System.out.println("to see the change");
 				}
 
 	}
